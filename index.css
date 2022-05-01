@@ -1,0 +1,19 @@
+html{
+    background-image: radial-gradient(#accbee , #e7f0fd );
+    height: 100vh;
+}
+#button{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 9%;
+    padding: 5%;
+    background-color: gainsboro;
+    border-radius: 10px;
+    font-size: 20px;
+}
+
+#button:hover{
+    background-color: rgb(194, 194, 194);
+    transition: 0.5s;
+}
